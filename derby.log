@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Oct 05 17:39:05 EDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-fab4-279b-000009136010 
+on database directory memory:/home/jim/springboot2/course-api-data/42320029-b34c-483f-9107-59556b7bbad8 with class loader org.springframework.boot.loader.LaunchedURLClassLoader@306a30c7 
+Loaded from jar:file:/home/jim/springboot2/course-api-data/target/course-api-data-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Ubuntu
+java.runtime.version=11.0.8+10-post-Ubuntu-0ubuntu118.04.1
+user.dir=/home/jim/springboot2/course-api-data
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-118-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
